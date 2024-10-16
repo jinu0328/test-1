@@ -1,9 +1,15 @@
+commit 6627ba88f420e8eea6bd5417cb5848e6baf34bc9
+Author: Jinwoo Kim <99790907+jinu0328@users.noreply.github.com>
+Date:   Wed Oct 16 22:55:31 2024 +0900
+
+    dff
+
 commit aa55c6322bf91b21e5f100c42403f525c94032d8
 Author: Jinwoo Kim <99790907+jinu0328@users.noreply.github.com>
 Date:   Wed Oct 16 22:54:12 2024 +0900
 
     야호git push
-    야호야호야호야호야ㅗㅎ이ㅑㅗㅎ
+    야호야호야호야호야호
 
 commit 9478f39dfea095fbb25b904a5d84b837229acc46
 Author: Jinwoo Kim <99790907+jinu0328@users.noreply.github.com>
